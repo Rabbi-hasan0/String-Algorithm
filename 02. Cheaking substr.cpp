@@ -1,5 +1,5 @@
 /*  
-      How to substring cheak-> here is explaination;
+      How to substring cheak-> here is explaination:
       # what we learn after end this topic:
       -> s string ta t er modde ache kina ??
       -> s string ta t er modde kotobar ache ??
